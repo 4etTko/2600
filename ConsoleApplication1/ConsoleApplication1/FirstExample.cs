@@ -17,7 +17,7 @@
         System.Console.WriteLine("Please enter last name: ");
         lastName = System.Console.ReadLine();
 
-        System.Console.WriteLine("Hello " + firstName + lastName);
+        System.Console.WriteLine("Hello " + firstName +" "+ lastName);
 
         System.Console.ReadKey();
 
